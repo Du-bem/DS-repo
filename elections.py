@@ -49,3 +49,5 @@ print(polling_box)
 plt.hist(polling_box, bins=4)
 plt.show()
 plt.clf()
+
+# 6 outta 10
